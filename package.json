@@ -1,0 +1,14 @@
+{
+    "name": "mediciones_app",
+    "version": "1.0.0",
+    "description": "Laboratorio de mediciones Application",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Paula Diaz",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^7.1.3"
+    }
+}
